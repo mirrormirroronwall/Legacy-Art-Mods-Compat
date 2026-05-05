@@ -1,7 +1,7 @@
 # Legacy-Art-Mods-Compat
 DOL 0.5.9新版图片名兼容工具
 
-Legacy-Art-Mods-Compat.zip为模组，加载后可自动兼容通过模组管理器加载的旧版命名美化模组。图片显示可能存在延迟。如果美化图片显示为原版，请尝试关闭游戏重新打开
+Legacy-Art-Mods-Compat.zip为Mod，加载后可自动兼容通过Mod管理器加载的旧版命名美化Mod。图片显示可能存在延迟。如果美化图片显示为原版，请尝试关闭游戏重新打开
 
 DOL-IMG-Batch-Renamer.exe用于批量重命名，**使用前请备份img文件夹**
 请放在和img文件夹同一目录下运行（杀毒软件可能会报毒）
